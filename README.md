@@ -7,7 +7,7 @@ Given: historical data
 Output: predicted price for each houses
 
 Algorithms implemented:
-1. Gauss-Jordan Elimination for computing inverses\n
+1. Gauss-Jordan Elimination for computing inverses
 2. Matrix multiplication, subtraction\n
 3. Matrix subtraction\n
 4. Malloc funciton in C programming\n
